@@ -12,4 +12,4 @@ PSUSphere is a Django-based web application for managing student organizations, 
 
 ## Authors
 
-- **Rochelle Collado**
+- **Kurt Kevin Tizon**
