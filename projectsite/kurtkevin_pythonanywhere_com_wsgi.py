@@ -3,7 +3,7 @@ import sys
 
 #path where you can find the mange.py
 
-path = '/home/kurtkevin/psusenvPSUSphere/projectsite'
+path = '/home/kurtkevin/psusenv/PSUSphere/projectsite'
 if path not in sys.path:
     sys.path.insert(0, path)
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "projectsite.settings")
