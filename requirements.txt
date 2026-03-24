@@ -3,3 +3,7 @@ Django==6.0.3
 Faker==40.8.0
 sqlparse==0.5.5
 tzdata==2025.3
+python-dateutil==2.9.0.post0
+six==1.16.0
+typing_extensions==4.10.0
+django-widget-tweaks 1.5.0
